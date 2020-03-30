@@ -23,8 +23,7 @@ The goals for this challenge are:
 
 
 ## Challenge Submission
-Please check in the repository for file
+Please check in the repository for file "Challenge_Module18.ipynb" for code
 
-In conclusion, of all the models that were tested in this challenge,  I recommend using the Easy Ensemble Adaboost Classifier. It has a highest accuracy of 93% at identifying true positives and true negatives. The precision value is also higher, which means the modeling is more accurate at predicting true low-risk and high-risk. This will help us identify actual high-risk loans more accurately, which will save the company money. Loaning out money to people that are considered high-risk will expose the company to a potential of losing money. In the business of credit risk, this is extremely important, so I feel that the Easy Ensemble Adaboost Classifier model is the best.
 
 ![]()
